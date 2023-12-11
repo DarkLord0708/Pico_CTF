@@ -1,8 +1,7 @@
 * first I looked at what the program was doing
 * taking a look at the account balance I found a few thing
     * account balance only changes when we do some transaction of the knockoff flags
-    * also account balance is and int<br>
-<br>
+    * also account balance is and int<br><br>
 ```accountbalance = accountbalance - total;```<br>
 where, ```total = 900*numberofflags;```<br>
 where, ```numberofflags``` is also an int<br>
